@@ -65,11 +65,24 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun removeZeroAfterDot(result:String) : String {
+        var value = result
+        if (result.contains(".0"))
+            value = result.substring(0,result.length -2)
+        return value
+    }
+
     fun onEquals(view : View) {
         val mgr: ScriptEngineManager = ScriptEngineManager()
-        val engine: ScriptEngine = mgr.getEngineByName("JavaScript")
+        val engine: ScriptEngine = mgr.getEngineByName("rhino")
         println(tvInput?.text.toString())
-        tvInput?.setText(engine.eval(tvInput?.text.toString()).toString())
+        tvInput?.setText(
+            removeZeroAfterDot(
+                engine.eval(
+                    tvInput?.text.toString()
+                    ).toString()
+                )
+        )
 
     }
 
