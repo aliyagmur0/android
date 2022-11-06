@@ -32,6 +32,7 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
     private var tvOptionFour:TextView? = null
 
     private var btnSubmit:Button? = null
+    private var boolNext:Boolean = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -146,7 +147,8 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
                     mCurrentPosition++
                     when {
                         mCurrentPosition <= mQuestionList!!.size -> {
-                            setQuestion()
+                            if (boolNext) setQuestion()
+                            boolNext=false
                         }
                         else -> {
                             val intent = Intent(this, ResultActivity::class.java)
@@ -169,6 +171,7 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
                     if (mCurrentPosition == mQuestionList!!.size) {
                         btnSubmit?.text = "BITIR"
                     } else {
+                        boolNext = true
                         btnSubmit?.text = "SONRAKI"
                     }
 
