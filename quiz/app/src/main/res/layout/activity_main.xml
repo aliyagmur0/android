@@ -6,21 +6,23 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical"
+    android:gravity="center"
     android:background="@drawable/ic_bg">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Küçükler İçin Sınav!"
+        android:text="Küçükler İçin Test"
         android:textSize="25sp"
         android:textStyle="bold"
         android:gravity="center"
         android:textColor="@color/white"/>
-    <androidx.cardview.widget.CardView
+    <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        app:cardCornerRadius="30dp"
         android:background="@color/white">
         <LinearLayout
             android:layout_width="match_parent"
@@ -51,6 +53,7 @@
                 android:layout_marginTop="20dp"
                 >
                 <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/edText"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Emre veya Elif"
@@ -61,6 +64,7 @@
 
             </com.google.android.material.textfield.TextInputLayout>
             <Button
+                android:id="@+id/btnStart"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -71,6 +75,6 @@
 
         </LinearLayout>
 
-    </androidx.cardview.widget.CardView>
+    </com.google.android.material.card.MaterialCardView>
 
 </LinearLayout>
