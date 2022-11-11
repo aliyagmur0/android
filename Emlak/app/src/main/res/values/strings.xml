@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Emlak</string>
+    <string name="edit_text_hint_title">Başlık</string>
+    <string name="edit_text_hint_description">Açıklama</string>
+    <string name="edit_text_hint_date">Tarih</string>
+    <string name="edit_text_hint_location">Lokasyon</string>
+    <string name="text_add_image">Resim Ekle</string>
+    <string name="btn_text_save">Kaydet</string>
+    <string name="add_new_realestate">Yeni Bir Menkul Ekle</string>
+    <string name="note_text_no_real_estate_found_yet">Herhangi bir emlak kaydı bulunamadı. Ekleyebilirsin.</string>
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">No Happy Places Found Yet. Kindly add one.</string>
+    <string name="image_content_description">image</string>
+</resources>
