@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HavaDurumu</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="APIKEY">20d7eca4757c9e3b138d349d8148beec</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+
+    <string name="action_refresh">Refresh</string>\
+
+</resources>

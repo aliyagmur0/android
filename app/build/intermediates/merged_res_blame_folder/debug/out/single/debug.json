@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_storm.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\storm.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_sunset.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\sunset.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_rain.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\rain.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_morning.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\morning.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_location.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_evening.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\evening.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_humidity.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_wind.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\wind.xml"
+    },
+    {
+        "merged": "com.yagmurali.havadurumu.app-merged_res-32:/drawable-anydpi-v24_ic_refresh_24dp.xml.flat",
+        "source": "com.yagmurali.havadurumu.app-pngs-27:/drawable-anydpi-v24/ic_refresh_24dp.xml"
+    },
+    {
+        "merged": "com.yagmurali.havadurumu.app-merged_res-32:/drawable-xxxhdpi_ic_refresh_24dp.png.flat",
+        "source": "com.yagmurali.havadurumu.app-pngs-27:/drawable-xxxhdpi/ic_refresh_24dp.png"
+    },
+    {
+        "merged": "com.yagmurali.havadurumu.app-merged_res-32:/drawable-ldpi_ic_refresh_24dp.png.flat",
+        "source": "com.yagmurali.havadurumu.app-pngs-27:/drawable-ldpi/ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_temperature.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_close.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\close.xml"
+    },
+    {
+        "merged": "com.yagmurali.havadurumu.app-merged_res-32:/drawable-mdpi_ic_refresh_24dp.png.flat",
+        "source": "com.yagmurali.havadurumu.app-pngs-27:/drawable-mdpi/ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.yagmurali.havadurumu.app-merged_res-32:/drawable-hdpi_ic_refresh_24dp.png.flat",
+        "source": "com.yagmurali.havadurumu.app-pngs-27:/drawable-hdpi/ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_sunny.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\sunny.xml"
+    },
+    {
+        "merged": "com.yagmurali.havadurumu.app-merged_res-32:/drawable-xxhdpi_ic_refresh_24dp.png.flat",
+        "source": "com.yagmurali.havadurumu.app-pngs-27:/drawable-xxhdpi/ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_cloud.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\cloud.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yagmurali.havadurumu.app-merged_res-32:/drawable-xhdpi_ic_refresh_24dp.png.flat",
+        "source": "com.yagmurali.havadurumu.app-pngs-27:/drawable-xhdpi/ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_snowflake.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\snowflake.xml"
+    },
+    {
+        "merged": "com.yagmurali.havadurumu.app-merged_res-32:/menu_menu_main.xml.flat",
+        "source": "com.yagmurali.havadurumu.app-main-34:/menu/menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\layout_dialog_custom_progress.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\layout\\dialog_custom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\drawable_sunrise.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\drawable\\sunrise.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ali\\.gradle\\daemon\\7.4\\com.yagmurali.havadurumu.app-main-34:\\xml\\backup_rules.xml"
+    }
+]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="divider_background">#e0e0e0</color>
+    <color name="main_screen_content_background_color">#EFEFEF</color>
+    <color name="primary_text_color">#363A43</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="secondary_text_color">#7A8089</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="card_view_content_padding">10dp</dimen>
+    <dimen name="card_view_corner_radius">8dp</dimen>
+    <dimen name="card_view_elevation">5dp</dimen>
+    <dimen name="card_view_marginStartEnd">5dp</dimen>
+    <dimen name="card_view_marginTop">16dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="divider_margin">16dp</dimen>
+    <dimen name="identification_image_marginEnd">10dp</dimen>
+    <dimen name="identification_image_size">50dp</dimen>
+    <dimen name="label_text_size">18sp</dimen>
+    <dimen name="main_content_padding_progress_dialog">10dp</dimen>
+    <dimen name="main_screen_content_padding">16dp</dimen>
+    <dimen name="progress_bar_marginEnd">10dp</dimen>
+    <dimen name="progress_bar_size">50dp</dimen>
+    <dimen name="progress_bar_text_size">16sp</dimen>
+    <dimen name="sunrise_marginTop">10dp</dimen>
+    <dimen name="sunset_marginStart">10dp</dimen>
+    <dimen name="value_text_size">16sp</dimen>
+    <string name="APIKEY">20d7eca4757c9e3b138d349d8148beec</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="app_name">HavaDurumu</string>
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string name="please_wait">Please Wait…</string>
+    <style name="Theme.HavaDurumu" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
